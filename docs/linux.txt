@@ -1,1 +1,2 @@
-Linux is an open-source operating system.
+1. What is Linux
+2. Three commands learned
